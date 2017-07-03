@@ -1,0 +1,1 @@
+db.employees.insert({'name':'Govind','depId':'1','depName':'apple'})
